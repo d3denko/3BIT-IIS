@@ -1,0 +1,31 @@
+{
+  "public/img/men_icon.jpeg": {
+    "file": "assets/men_icon.bdc8a7b9.jpeg",
+    "src": "public/img/men_icon.jpeg"
+  },
+  "public/img/girl_icon.png": {
+    "file": "assets/girl_icon.178eecfe.png",
+    "src": "public/img/girl_icon.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.f93b21c8.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.cca67129.css"
+    ],
+    "assets": [
+      "assets/girl_icon.178eecfe.png",
+      "assets/men_icon.bdc8a7b9.jpeg"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.cca67129.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.67dcdfd2.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
